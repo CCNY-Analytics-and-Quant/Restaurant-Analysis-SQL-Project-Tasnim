@@ -1,2 +1,2 @@
 ﻿# SQL-Project
-
+This project is a SQL analysis of restaurant data. The goal of the project is to use SQL to explore the data and gain insights into the restaurant industry. The project will involve importing the data into a database, cleaning and transforming the data as needed, and then using various SQL queries to answer questions about the data. For example, the project may involve analyzing data on restaurant locations, revenue, and customer ratings to understand trends and patterns in the industry. The project will use the SQLite database engine and will include a Jupyter notebook to demonstrate the SQL code and results.
